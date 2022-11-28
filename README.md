@@ -1,8 +1,10 @@
 ## Project title
 week 1 code challenge
+## Author
+DAN NJUGUNA
 ## Project Description
 This project includes solutions for  three toy projects.
-Challenge 1: Student Grade Generator (Toy Problem)
+Challenge 1(Student_Grade_Generator): Student Grade Generator (Toy Problem)
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
 
 A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
@@ -18,6 +20,20 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.  
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+## Technolog used
+Javascript
 
-##LICENSE
+## GETTING FILES
+> Fork the repository
+> Clone the repository
+> Install the prerequisites(node js,visual studio code or atom )
+>Open the  files with the code editor
+> Make appropriate changes in file(s)
+>Run the code to see the changes you make
+>Add the changes and commit them (git commit -am "your comment")
+>Push to the branch (git push origin )
+
+
+
+## LICENSE
 MIT License Copyright (c) 2022 DAN NJUGUNA
