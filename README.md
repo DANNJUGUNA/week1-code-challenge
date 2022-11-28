@@ -3,16 +3,16 @@ week 1 code challenge
 ## Author
 DAN NJUGUNA
 ## Project Description
-This project includes solutions for  three toy projects.
-Challenge 1(Student_Grade_Generator): Student Grade Generator (Toy Problem)
+This project includes solutions for  three toy problens challenge.
+## Challenge 1(Student_Grade_Generator): Student Grade Generator 
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
 
 A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 
-Challenge 2: Speed Detector (Toy Problem)
+## Challenge 2(Speed Detector ): Speed Detector 
 Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
-Challenge 3: Net Salary Calculator (Toy Problem)
+## Challenge 3: Net Salary Calculator 
 Given the basic salary and benefits of an employee, write a program that would calculate the Payee Tax, NHIF, NSSF Deductions and net salary.
 
 NB: Use KRA, NHIF, and NSSF values provided in the link below.
